@@ -1,0 +1,35 @@
+#######################################
+# Syntax Coloring Map For RAK_FRAM_CY15B108QN
+#######################################
+
+#######################################
+# Library (KEYWORD1)
+#######################################
+
+RAK_FRAM_CY15B108QN KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begin   KEYWORD2
+setSerialNumber KEYWORD2
+getSerialNumber KEYWORD2
+getFramSize KEYWORD2
+writeEnable KEYWORD2
+setGPIOMode KEYWORD2
+writeByte   KEYWORD2
+write   KEYWORD2
+readByte    KEYWORD2
+read    KEYWORD2
+getDeviceID KEYWORD2
+getStatusRegister   KEYWORD2
+setStatusRegister   KEYWORD2
+specialSectorWrite  KEYWORD2
+specialSectorRead   KEYWORD2
+fastReadOperation   KEYWORD2
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+# TODO ...
